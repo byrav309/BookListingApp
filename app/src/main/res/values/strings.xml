@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+    <string name="search_hint">Search by author or book title</string>
+    <string name="noDataFound">We could not find any books.\nPlease search another term.</string>
+</resources>

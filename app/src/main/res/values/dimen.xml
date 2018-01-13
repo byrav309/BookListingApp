@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_text_size">24sp</dimen>
+    <dimen name="tv_padding">5dp</dimen>
+    <dimen name="tv_text_size">15sp</dimen>
+    <dimen name="recyclerview_padding">5dp</dimen>
+</resources>
